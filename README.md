@@ -26,6 +26,7 @@ Co-author of **GMNet: Graph Matching Network for Large Scale Part Semantic Segme
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**edoardo-borsato.github.io**](https://github.com/edoardo-borsato/edoardo-borsato.github.io) | Personal website with an AI chatbot that answers questions about me. | Typescript, Next.js, Gemini, Vercel |
 | [**bard**](https://github.com/edoardo-borsato/bard) | CLI tool for DynamoDB backup, restore, and batch delete | .NET 8 |
 | [**xpense**](https://github.com/edoardo-borsato/xpense) | Cross-platform expense tracker with mobile-first UI | .NET MAUI Blazor Hybrid |
 | [**expenses-api**](https://github.com/edoardo-borsato/expenses-api) | REST API backend for Xpense | .NET, Azure |
