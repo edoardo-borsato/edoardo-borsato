@@ -37,9 +37,9 @@ Co-author of **GMNet: Graph Matching Network for Large Scale Part Semantic Segme
 ### Tech I work with
 
 ```
-Day to day:     C#, .NET 8, ASP.NET Core, Entity Framework Core, Docker, Git
-Regularly:      TypeScript, Python, AWS, SQL, Jenkins, gRPC, CDK
-Occasionally:   C++, Azure, Angular
+Day to day:     C#, .NET 8, ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, Git
+Regularly:      TypeScript, Python, AWS, SQL Server, Jenkins, gRPC, CDK
+Occasionally:   C++, Azure, Angular, React
 ```
 
 ---
